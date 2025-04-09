@@ -1,0 +1,1 @@
+This repo contains the code from my bachelor thesis project. The repo is pretty useless, however, because I did not put any effort into storing code and data in an understandable manner. Therefore it is very chaotic. 
